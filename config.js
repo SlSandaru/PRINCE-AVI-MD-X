@@ -9,13 +9,13 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['0772836332', '𝘼𝙑𝙄', true],
-  ['0772836332', '𝘼𝙑𝙄', true], 
+  ['0716159814', 'Sandaru', true],
+  ['0716159814', 'Sandaru', true], 
   [''] 
 ] //Number of owners
 
-global.mods = ['94772836332','94772836332'] 
-global.prems = ['94772836332', '94772836332', '94772836332']
+global.mods = ['94716159814','94716159814'] 
+global.prems = ['94716159814', '94716159814', '94716159814']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
@@ -54,10 +54,10 @@ global.premium = 'true'
 global.packname = '💖𝙋𝙍𝙄𝙉𝘾𝙀 𝘼𝙑𝙄 𝙈𝘿💖' 
 global.author = '💖𝙋𝙍𝙄𝙉𝘾𝙀 𝘼𝙑𝙄 𝙈𝘿💖' 
 global.igfg = ' 𝘼𝙑𝙄' 
-global.dygp = 'https://chat.whatsapp.com/JyyF8F0Au1K9P6uaYLI6iI'
-global.fgsc = 'https://chat.whatsapp.com/JyyF8F0Au1K9P6uaYLI6iI' 
-global.fgyt = 'https://chat.whatsapp.com/JyyF8F0Au1K9P6uaYLI6iI'
-global.fgpyp = 'https://chat.whatsapp.com/JyyF8F0Au1K9P6uaYLI6iI'
+global.dygp = 'https://chat.whatsapp.com/HIO92Q1EwkqLPsLC72Gi3z'
+global.fgsc = 'https://chat.whatsapp.com/HIO92Q1EwkqLPsLC72Gi3z' 
+global.fgyt = 'https://chat.whatsapp.com/HIO92Q1EwkqLPsLC72Gi3z'
+global.fgpyp = 'https://chat.whatsapp.com/HIO92Q1EwkqLPsLC72Gi3z'
 global.fglog = 'https://avatars.githubusercontent.com/u/134716496?v=4.jpg' 
 
 
